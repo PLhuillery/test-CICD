@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 8080;
 
 // Simple route that displays "test"
 app.get('/', (req, res) => {
-  res.send('<h1>Test</h1><p>This is a simple Node.js app</p>');
+  res.send('<h1>Test</h1><p>This is a simple Node.js app that should be deployed with CICD</p>');
 });
 
 // Health check endpoint
