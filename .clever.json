@@ -1,0 +1,36 @@
+{
+  "apps": [
+    {
+      "app_id": "app_a933f517-b1cd-4557-b5d9-a5d9cfbb9f77",
+      "org_id": "user_67318658-a551-43f1-b125-d91e85333053",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_a933f517-b1cd-4557-b5d9-a5d9cfbb9f77.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_a933f517-b1cd-4557-b5d9-a5d9cfbb9f77.git",
+      "name": "Countly server - example",
+      "alias": "Countly-server-example"
+    },
+    {
+      "app_id": "app_ffe2b513-9a3d-4945-98e2-2cd06917cb89",
+      "org_id": "user_67318658-a551-43f1-b125-d91e85333053",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_ffe2b513-9a3d-4945-98e2-2cd06917cb89.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_ffe2b513-9a3d-4945-98e2-2cd06917cb89.git",
+      "name": "Pierre_Test_support",
+      "alias": "Pierre_Test_support"
+    },
+    {
+      "app_id": "app_92980f3b-a495-4087-976a-2937ae3591c7",
+      "org_id": "orga_2eb942c9-ae24-40fe-9e4c-53c9982a02b1",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_92980f3b-a495-4087-976a-2937ae3591c7.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_92980f3b-a495-4087-976a-2937ae3591c7.git",
+      "name": "Wagtail demo",
+      "alias": "Wagtail-demo"
+    },
+    {
+      "app_id": "app_9ee05a67-8fa4-495f-94bc-7de3c3d05619",
+      "org_id": "orga_9a359074-e2ba-413b-8f99-8e33bf7ea5cc",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_9ee05a67-8fa4-495f-94bc-7de3c3d05619.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_9ee05a67-8fa4-495f-94bc-7de3c3d05619.git",
+      "name": "test-CICD-PR-3",
+      "alias": "test-CICD-PR-3"
+    }
+  ]
+}
