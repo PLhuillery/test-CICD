@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 8080;
 
 // Simple route that displays a test message
 app.get('/', (req, res) => {
-  res.send('<h1>Test</h1><p>This is a simple Node.js app that should be deployed with CICD</p>');
+  res.send('<h1>Test</h1><p>TIF you read this, the script is working :) </p>');
 });
 
 // Health check endpoint
@@ -21,3 +21,5 @@ app.listen(PORT, () => {
 });
 
 // Comment random
+// random2
+//Random 3
